@@ -7,6 +7,6 @@ twobluerain/twobluerain is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![i13896756065](https://user-images.githubusercontent.com/101780699/170152732-141f8df5-f0d2-4eaa-b22f-c3e6d3aecf05.gif)
-
+<p align = "center">
+![i13896756065](https://user-images.githubusercontent.com/101780699/170153198-87a7f364-6bfc-4ee6-918e-19e3585f9f45.gif)
+</p>
