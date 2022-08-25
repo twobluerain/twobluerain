@@ -1,5 +1,5 @@
 - Hi, 👋 I’m @twobluerain
-- I ~~hate~~ love coding 💞
+- I ~~like~~ love coding 💞
 
 
 <!---
